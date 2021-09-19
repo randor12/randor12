@@ -11,6 +11,7 @@ I was in High School. I have a deep interest in Machine Learning and Data Scienc
   - C++
   - JavaScript
   - SQL/NoSQL (MySQL, PostgreSQL, MonogoDB, and Cassandra)
+  - R
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
