@@ -55,7 +55,7 @@ I was in High School. I have a deep interest in Machine Learning and Data Scienc
  <a href="https://www.instagram.com/ryan_n272/" target="blank">
   <img align="center" alt="Ryan's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
-	<a href="#" target="blank">
+	<a href="https://randor12.github.io/" target="blank">
 		☕
 	</a>
   <br/>
