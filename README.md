@@ -2,6 +2,9 @@
 <em>I am a 4th Year undergraduate student from <a href="https://vt.edu/"><b>Virginia Tech</b></a>. I am a Computer Science Major with a Math Minor and a Data Centric Computing Concentration. I love to program, and have been programming since
 I was in High School. I have a deep interest in Machine Learning and Data Science. </em>
  <br/>
+ 
+<img src='MyPicture.jpeg' alt="My Photo">
+
 ## Ask me about :computer:
 - **Programming Languages**
 	- Python
