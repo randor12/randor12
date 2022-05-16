@@ -3,8 +3,6 @@
 I was in High School. I have a deep interest in Machine Learning and Data Science. </em>
  <br/>
  
-<img src='MyPicture.jpeg' alt="My Photo">
-
 ## Ask me about :computer:
 - **Programming Languages**
 	- Python
