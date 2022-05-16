@@ -1,5 +1,5 @@
 ### Hello, I am Ryan!
-<em>I am a 4th Year undergraduate student from <a href="https://vt.edu/"><b>Virginia Tech</b></a>. I am a Computer Science Major with a Math Minor and a Data Centric Computing Concentration. I love to program, and have been programming since
+<em>I am an incoming Software Developer for Epic in Madison, Wisconsin. I recently graduated from <a href="https://vt.edu/"><b>Virginia Tech</b></a>. I graduated with a Computer Science Degree in Data Centric Computing with a Math Minor. I love to program, and have been programming since
 I was in High School. I have a deep interest in Machine Learning and Data Science. </em>
  <br/>
  
